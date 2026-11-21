@@ -1,2 +1,2 @@
-# Haven_Delhi_Project
+# Jumptastix
 My Haven Delhi Game on the topic bounce back 

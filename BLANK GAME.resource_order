@@ -1,0 +1,13 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Greande","order":1,"path":"objects/Greande/Greande.yy",},
+    {"name":"obj_aryan","order":4,"path":"objects/obj_aryan/obj_aryan.yy",},
+    {"name":"spr_aryan","order":3,"path":"sprites/spr_aryan/spr_aryan.yy",},
+    {"name":"spr_bg","order":6,"path":"sprites/spr_bg/spr_bg.yy",},
+    {"name":"spr_clouds","order":5,"path":"sprites/spr_clouds/spr_clouds.yy",},
+    {"name":"spr_grenae","order":2,"path":"sprites/spr_grenae/spr_grenae.yy",},
+    {"name":"Sprite5","order":8,"path":"sprites/Sprite5/Sprite5.yy",},
+    {"name":"TileSet1","order":7,"path":"tilesets/TileSet1/TileSet1.yy",},
+  ],
+}

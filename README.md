@@ -9,3 +9,8 @@ Welcome to the game! Here is everything you need to know 1. Objective: Build up 
 >.Respawn: after u die a title screen has the option to respawn and try again
 >thx for reading and playing
 >love u haven delhi :)
+
+
+Here is the link to our game :
+https://shadowgrinder7.itch.io/jumparyanjump
+sry Aryan by-daiwik and parth

@@ -1,6 +1,6 @@
 # Jumptastix
 My Haven Delhi Game on the topic bounce back 
-Welcome to the game! Here is everything you need to know 1. Objective: Build up your jump score and reach the Win Score of 60.
+Welcome to the game! Here is everything you need to know 1. Objective: Build up your jump score and reach the Win Score of 50.
 >Scoring: Every normal trampoline bounce increases your score (+1).
 >Failure / Death: Falling onto the ground when you aren't safely landing/bouncing or dropping below the bottom boundary,
 >How It WorksMove: Left-A / Right-D Moves Aryan horizontally left (A) or right (D). Speed scales dynamically as you progress.
